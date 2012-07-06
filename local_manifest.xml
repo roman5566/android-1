@@ -2,6 +2,10 @@
 <manifest>
   <project name="kushdeck/android_device_htc_supersonic.git" path="device/htc/supersonic" revision="ics" />
   <project name="kushdeck/vendor_htc_supersonic.git" path="vendor/htc/supersonic" revision="ics" />
+  <project name="kushdeck/android_device_htc_speedy.git" path="device/htc/speedy" revision="ics" />
+  <project name="kushdeck/vendor_htc_speedy.git" path="vendor/htc/speedy" revision="ics" />
+  <project name="kushdeck/android_device_htc_jewel.git" path="device/htc/jewel" revision="ics" />
+  <project name="kushdeck/vendor_htc_jewel.git" path="vendor/htc/jewel" revision="ics" />
   <remove-project name="CyanogenMod/android_hardware_qcom_display" />
   <project name="kushdeck/android_hardware_qcom_display.git" path="hardware/qcom/display" revision="ics" />
   <remove-project name="CyanogenMod/android_packages_apps_Camera" />
