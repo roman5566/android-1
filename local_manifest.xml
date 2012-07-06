@@ -21,4 +21,5 @@
   <project name="kushdeck/android_frameworks_base.git" path="frameworks/base" revision="ics" />
   <remove-project name="CyanogenMod/android_vendor_cm" />
   <project name="kushdeck/android_vendor_cm.git" path="vendor/cm" revision="ics" />
+  <project name="kushdeck/android_vendor_google.git" path="vendor/cm" revision="ics" />
 </manifest>
