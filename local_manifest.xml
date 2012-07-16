@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="toastcfh/android_device_htc_jewel.git" path="device/htc/jewel" revision="jellybean" />
-  <project name="toastcfh/vendor_htc_jewel.git" path="vendor/htc/jewel" revision="jellybean" />
-  <project name="toastcfh/android_hardware_qcom_audio.git" path="hardware/qcom/audio" revision="jellybean" />
+  <project name="htc-msm8960/android_device_htc_jewel.git" path="device/htc/jewel" revision="jellybean" />
+  <project name="htc-msm8960/proprietary_vendor_htc.git" path="vendor/htc" revision="jellybean" />
+  <project name="htc-msm8960/android_hardware_qcom_audio.git" path="hardware/qcom/audio" revision="jellybean" />
   <project name="toastcfh/android_device_htc_msm8960-common.git" path="device/htc/msm8960-common" revision="jellybean"/>
 </manifest>
