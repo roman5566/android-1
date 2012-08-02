@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="codefire-ace/platform_device_htc-ace.git" path="device/htc/ace" revision="master" />
+  <project name="codefire-ace/platform_device_htc_ace.git" path="device/htc/ace" revision="master" />
   <project name="codefire-ace/platform_device_htc_msm7x30-common.git" path="device/htc/msm7x30-common" revision="master" />
   <project name="aospX/platform_vendor_htc.git" path="vendor/htc" revision="jb-devel" />
 </manifest>
