@@ -10,6 +10,8 @@
   <project name="codefire-ace/platform_vendor_htc_ace.git" path="vendor/htc/ace" remote="aokp" revision="jb-devel" />
   <project name="CodeFireAOSP/platform_vendor_qcom_proprietary.git" path="vendor/qcom/proprietary" remote="aokp" revision="jb-devel" />
   <remove-project name="AOKP/packages_input_LatinIME" />
+  <remove-project name="AOKP/packages_apps_Camera" />
+  <project name="codefire-ace/android_packages_apps_Camera" path="packages/apps/Camera" revision="jb-devel" />
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="aokp" revision="jellybean" />
   <project name="CyanogenMod/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="aokp" revision="jellybean" />
   <project name="KangBangKreations/KangBanged-7x30" path="kernel/htc/KangBanged-7x30" remote="aokp" revision="kb-stable" />
