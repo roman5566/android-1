@@ -8,8 +8,7 @@
            fetch="git://github.com/Evervolv/"
            review="review.evervolv.com"/>
   <remote  name="gh"
-           fetch="git://github.com/Evervolv/"
-           review="review.evervolv.com"/>
+           fetch="git://github.com/"
   <remote  name="linaro-android"
            fetch="git://android.git.linaro.org" />
   <default revision="refs/tags/android-4.1.1_r4"
