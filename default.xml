@@ -48,9 +48,6 @@
   <project path="frameworks/base" name="android_frameworks_base" remote="github" revision="jellybean"/>
   <project path="frameworks/native" name="android_frameworks_native" remote="github" revision="jellybean"/>
   <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="github" revision="jellybean"/>
-  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="github" revision="jellybean"/>
-  <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="github" revision="jellybean"/>
-  <project path="hardware/msm7k" name="android_hardware_msm7k" remote="github" revision="jellybean"/>
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="github" revision="jellybean"/>
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="github" revision="jellybean"/>
   <project path="hardware/ril" name="android_hardware_ril" remote="github" revision="jellybean"/>
@@ -96,7 +93,6 @@
   <project path="device/htc/speedy" name="android_device_htc_speedy" remote="github" revision="jellybean"/>
   <project path="device/htc/supersonic" name="android_device_htc_supersonic" remote="github" revision="jellybean" />
   <project path="external/bash" name="android_external_bash" remote="github" revision="jellybean" />
-  <project path="external/busybox" name="android_external_busybox" remote="github" revision="jellybean" />
   <project path="external/htop" name="android_external_htop" remote="github" revision="jellybean" />
   <project path="external/libncurses" name="android_external_libncurses" remote="github" revision="jellybean" />
   <project path="external/nano" name="android_external_nano" remote="github" revision="jellybean" />
@@ -129,6 +125,10 @@
   <project name="CodeFireAOSP/platform_packages_wallpapers_basic" path="packages/wallpapers/Basic" remote="gh" revision="jb-devel" />
   <project name="CodeFireAOSP/platform_vendor_qcom_proprietary.git" path="vendor/qcom/proprietary" remote="gh" revision="jb-devel" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="gh" revision="jellybean"/>
+  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="gh" revision="jellybean"/>
+  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" remote="gh" revision="jellybean"/>
+  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="gh" revision="jellybean"/>
+  <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="gh" revision="jellybean" />
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="gh" revision="jellybean" />
   <project name="KangBangKreations/KangBanged-7x30" path="kernel/htc/KangBanged-7x30" remote="gh" revision="kb-stable" />
   <project name="platform/packages/apps/0xbench" path="packages/apps/0xbench" remote="linaro-android" revision="linaro-master" />
