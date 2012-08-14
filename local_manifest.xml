@@ -9,7 +9,9 @@
   <project name="codefire-ace/platform_device_htc_msm7x30-common" path="device/htc/msm7x30-common" revision="jb-devel" />
   <project name="codefire-ace/platform_vendor_htc_ace" path="vendor/htc/ace" revision="jb-devel" />
   <remove-project name="CyanogenMod/android_packages_apps_Camera" />
+  <remove-project name="CyanogenMod/android_hardware_qcom_display" />
   <remove-project name="CyanogenMod/android_packages_wallpapers_Basic" />
+  <project name="Andromadus/android_hardware_qcom_display" path="hardware/qcom/display" revision="jellybean" />
   <project name="codefire-ace/android_packages_apps_Camera" path="packages/apps/Camera" revision="jb-devel" />
   <project name="CodeFireAOSP/platform_packages_wallpapers_basic" path="packages/wallpapers/Basic" remote="github" revision="jb-devel" />
   <project name="CodeFireAOSP/platform_vendor_qcom_proprietary" path="vendor/qcom/proprietary" revision="jb-devel" />
