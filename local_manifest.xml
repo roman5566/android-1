@@ -11,7 +11,9 @@
   <project name="CodeFireAOSP/platform_vendor_qcom_proprietary.git" path="vendor/qcom/proprietary" remote="aokp" revision="jb-devel" />
   <remove-project name="AOKP/packages_input_LatinIME" />
   <remove-project name="AOKP/packages_apps_Camera" />
-  <remove-project name="platform/packages/wallpapers/Basic"
+  <remove-project name="platform/packages/wallpapers/Basic" />
+  <remove-project name="AOKP/android_hardware_qcom_display" />
+  <project name="Andromadus/android_hardware_qcom_display" path="hardware/qcom/display" remote="aokp" revision="jellybean" />
   <project name="CodeFireAOSP/platform_packages_wallpapers_basic" path="packages/wallpapers/Basic" remote="aokp" revision="jb-devel" />
   <project name="codefire-ace/android_packages_apps_Camera" path="packages/apps/Camera" remote="aokp" revision="jb-devel" />
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="aokp" revision="jellybean" />
