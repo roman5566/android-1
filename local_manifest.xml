@@ -11,16 +11,20 @@
   <project name="CodeFireAOSP/platform_vendor_qcom_proprietary.git" path="vendor/qcom/proprietary" remote="aokp" revision="jb-devel" />
   <remove-project name="AOKP/packages_input_LatinIME" />
   <remove-project name="AOKP/packages_apps_Camera" />
+  <remove-project name="AOKP/packages_apps_ROMControl" />
   <remove-project name="platform/packages/wallpapers/Basic" />
   <remove-project name="AOKP/frameworks_av" />
+  <remove-project name="AOKP/frameworks_base" />
   <remove-project name="AOKP/android_hardware_qcom_display" />
   <remove-project name="AOKP/android_hardware_qcom_media" />
   <project name="codefire-ace/android_frameworks_av" path="frameworks/av" remote="aokp" revision="jb-devel" />
+  <project name="codefire-ace/frameworks_base" path="frameworks/base" remote="aokp" revision="jb-devel" />
   <project name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" remote="aokp" revision="jellybean" />
   <project name="Andromadus/android_hardware_qcom_display" path="hardware/qcom/display" remote="aokp" revision="jellybean" />
   <project name="Andromadus/android_hardware_qcom_media" path="hardware/qcom/media" remote="aokp" revision="jellybean" />
   <project name="CodeFireAOSP/platform_packages_wallpapers_basic" path="packages/wallpapers/Basic" remote="aokp" revision="jb-devel" />
   <project name="codefire-ace/android_packages_apps_Camera" path="packages/apps/Camera" remote="aokp" revision="jb-devel" />
+  <project name="codefire-ace/android_packages_apps_ROMControl" path="packages/apps/ROMControl" remote="aokp" revision="jb-devel" />
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="aokp" revision="jellybean" />
   <project name="CyanogenMod/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="aokp" revision="jellybean" />
   <project name="KangBangKreations/KangBanged-7x30" path="kernel/htc/KangBanged-7x30" remote="aokp" revision="kb-stable" />
