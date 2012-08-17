@@ -24,7 +24,7 @@
   <project name="Andromadus/android_hardware_qcom_media" path="hardware/qcom/media" remote="aokp" revision="jellybean" />
   <project name="CodeFireAOSP/platform_packages_wallpapers_basic" path="packages/wallpapers/Basic" remote="aokp" revision="jb-devel" />
   <project name="codefire-ace/android_packages_apps_Camera" path="packages/apps/Camera" remote="aokp" revision="jb-devel" />
-  <project name="codefire-ace/android_packages_apps_ROMControl" path="packages/apps/ROMControl" remote="aokp" revision="jb-devel" />
+  <project name="codefire-ace/packages_apps_ROMControl" path="packages/apps/ROMControl" remote="aokp" revision="jb-devel" />
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="aokp" revision="jellybean" />
   <project name="CyanogenMod/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="aokp" revision="jellybean" />
   <project name="KangBangKreations/KangBanged-7x30" path="kernel/htc/KangBanged-7x30" remote="aokp" revision="kb-stable" />
