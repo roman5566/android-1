@@ -12,8 +12,10 @@
   <remove-project name="AOKP/packages_input_LatinIME" />
   <remove-project name="AOKP/packages_apps_Camera" />
   <remove-project name="platform/packages/wallpapers/Basic" />
+  <remove-project name="AOKP/frameworks_av" />
   <remove-project name="AOKP/android_hardware_qcom_display" />
   <remove-project name="AOKP/android_hardware_qcom_media" />
+  <project name="Andromadus/android_frameworks_av" path="frameworks/av" remote="aokp" revision="jellybean" />
   <project name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" remote="aokp" revision="jellybean" />
   <project name="Andromadus/android_hardware_qcom_display" path="hardware/qcom/display" remote="aokp" revision="jellybean" />
   <project name="Andromadus/android_hardware_qcom_media" path="hardware/qcom/media" remote="aokp" revision="jellybean" />
