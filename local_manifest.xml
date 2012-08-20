@@ -28,5 +28,6 @@
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="aokp" revision="jellybean" />
   <project name="CyanogenMod/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="aokp" revision="jellybean" />
   <project name="KangBangKreations/KangBanged-7x30" path="kernel/htc/KangBanged-7x30" remote="aokp" revision="kb-stable" />
+  <project name="KangBangKreations/htc-kernel-msm7x30" path="kernel/htc/htc-kernel-msm7x30" remote="aokp" revision="kb-stable" />
   <project name="platform/packages/apps/0xbench" path="packages/apps/0xbench" remote="linaro-android" revision="linaro-master" />
 </manifest>
