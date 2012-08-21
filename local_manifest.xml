@@ -19,7 +19,7 @@
   <project name="Andromadus/android_hardware_qcom_media" path="hardware/qcom/media" revision="jellybean" />
   <project name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" revision="jellybean" />
   <project name="codefire-ace/android_packages_apps_Camera" path="packages/apps/Camera" revision="jb-devel" />
-  <project name="EverVolv/android_packages_apps_Camera" path="packages/apps/LegacyCamera" revision="jellybean" />
+  <project name="Evervolv/android_packages_apps_LegacyCamera" path="packages/apps/LegacyCamera" revision="jellybean" />
   <project name="CodeFireAOSP/platform_packages_wallpapers_basic" path="packages/wallpapers/Basic" remote="github" revision="jb-devel" />
   <project name="CodeFireAOSP/platform_vendor_qcom_proprietary" path="vendor/qcom/proprietary" revision="jb-devel" />
   <project name="KangBangKreations/KangBanged-7x30" path="kernel/htc/KangBanged-7x30" revision="kb-stable" />
