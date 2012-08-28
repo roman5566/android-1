@@ -22,7 +22,7 @@
   <project name="codefire-ace/frameworks_base" path="frameworks/base" remote="aokp" revision="jb-devel" />
   <project name="codefire-ace/vendor_aokp" path="vendor/aokp" remote="aokp" revision="jb-devel" />
   <project name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" remote="aokp" revision="jellybean" />
-  <project name="codefire-ace/android_hardware_qcom_display" path="hardware/qcom/display" remote="aokp" revision="jb-devel" />
+  <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display" remote="aokp" revision="jellybean" />
   <project name="Andromadus/android_hardware_qcom_media" path="hardware/qcom/media" remote="aokp" revision="jellybean" />
   <project name="CodeFireAOSP/platform_packages_wallpapers_basic" path="packages/wallpapers/Basic" remote="aokp" revision="jb-devel" />
   <project name="codefire-ace/android_packages_apps_Camera" path="packages/apps/Camera" remote="aokp" revision="jb-devel" />
