@@ -10,12 +10,10 @@
   <project name="Andromadus/proprietary_htc_ace" path="vendor/htc/ace" />
   <remove-project name="CyanogenMod/android_packages_apps_Camera" />
   <remove-project name="CyanogenMod/android_packages_apps_LegacyCamera" />
-  <remove-project name="CyanogenMod/android_hardware_qcom_display" />
   <remove-project name="CyanogenMod/android_hardware_qcom_media" />
   <remove-project name="CyanogenMod/android_packages_wallpapers_Basic" />
   <remove-project name="CyanogenMod/android_frameworks_av" />
   <project name="codefire-ace/android_frameworks_av" path="frameworks/av" revision="jb-devel" />
-  <project name="codefire-ace/android_hardware_qcom_display" path="hardware/qcom/display" revision="jb-devel" />
   <project name="Andromadus/android_hardware_qcom_media" path="hardware/qcom/media" revision="jellybean" />
   <project name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" revision="jellybean" />
   <project name="codefire-ace/android_packages_apps_Camera" path="packages/apps/Camera" revision="jb-devel" />
