@@ -11,6 +11,7 @@
   <remove-project name="CyanogenMod/android_packages_apps_Camera" />
   <remove-project name="CyanogenMod/android_packages_apps_LegacyCamera" />
   <remove-project name="CyanogenMod/android_packages_apps_Settings" />
+  <remove-project name="CyanogenMod/android_packages_apps_Torch" />
   <remove-project name="CyanogenMod/android_hardware_qcom_media" />
   <remove-project name="CyanogenMod/android_packages_wallpapers_Basic" />
   <remove-project name="CyanogenMod/android_frameworks_av" />
@@ -18,6 +19,7 @@
   <project name="codefire-ace/android_frameworks_av" path="frameworks/av" revision="jb-devel" />
   <project name="codefireX/android_frameworks_base" path="frameworks/base" revision="jb-devel" />
   <project name="codefireX/android_packages_apps_Settings" path="packages/apps/Settings" revision="jb-devel" />
+  <project name="codefireX/android_packages_apps_Torch" path="packages/apps/Torch" revision="jb-devel" />
   <project name="Andromadus/android_hardware_qcom_media" path="hardware/qcom/media" revision="jellybean" />
   <project name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" revision="jellybean" />
   <project name="codefire-ace/android_packages_apps_Camera" path="packages/apps/Camera" revision="jb-devel" />
