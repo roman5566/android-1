@@ -29,6 +29,6 @@
   <project name="KangBangKreations/KangBanged-7x30" path="kernel/htc/KangBanged-7x30" revision="kb-stable" />
   <project name="KangBangKreations/htc-kernel-msm7x30" path="kernel/htc/htc-kernel-msm7x30" revision="kb-stable" />
   <remove-project name="CyanogenMod/android_vendor_cm" />
-  <project name="codefire-ace/android_vendor_cm" path="vendor/cm" revision="jb-devel" />
+  <project name="codefireX/android_vendor_cm" path="vendor/cm" revision="jb-devel" />
   <project name="platform/packages/apps/0xbench" path="packages/apps/0xbench" remote="linaro-android" revision="linaro-master" />
 </manifest>
