@@ -16,8 +16,12 @@
   <remove-project name="CyanogenMod/android_packages_wallpapers_Basic" />
   <remove-project name="CyanogenMod/android_frameworks_av" />
   <remove-project name="CyanogenMod/android_frameworks_base" />
+  <remove-project name="CyanogenMod/android_frameworks_compile_slang" />
+  <remove-project name="CyanogenMod/android_frameworks_native" />
   <project name="codefire-ace/android_frameworks_av" path="frameworks/av" revision="jb-devel" />
   <project name="codefireX/android_frameworks_base" path="frameworks/base" revision="jb-devel" />
+  <project name="codefireX/android_frameworks_compile_slang" path="frameworks/compile/slang" revision="jb-devel" />
+  <project name="codefireX/android_frameworks_native" path="frameworks/native" revision="jb-devel" />
   <project name="codefireX/android_packages_apps_Settings" path="packages/apps/Settings" revision="jb-devel" />
   <project name="codefireX/android_packages_apps_Torch" path="packages/apps/Torch" revision="jb-devel" />
   <project name="Andromadus/android_hardware_qcom_media" path="hardware/qcom/media" revision="jellybean" />
