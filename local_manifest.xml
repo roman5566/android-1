@@ -29,6 +29,7 @@
   <remove-project name="CyanogenMod/android_frameworks_compile_slang" />
   <remove-project name="CyanogenMod/android_frameworks_native" />
   <remove-project name="CyanogenMod/android_system_core" />
+  <remove-project name="CyanogenMod/android_system_security" />
   <project name="codefire-ace/android_frameworks_av" path="frameworks/av" revision="jb-devel" />
   <project name="codefireX/android_build" path="build" revision="jb-devel" />
   <project name="codefireX/platform_dalvik" path="dalvik" revision="jb-devel" />
@@ -45,6 +46,7 @@
   <project name="codefireX/android_hardware_msm7k" path="hardware/msm7k" revision="jb-devel" />
   <project name="codefireX/android_packages_apps_Settings" path="packages/apps/Settings" revision="jb-devel" />
   <project name="codefireX/android_system_core" path="system/core" revision="jb-devel" />
+  <project name="codefireX/android_system_security" path="system/security" revision="jb-devel" />
   <project name="codefireX/android_packages_apps_Torch" path="packages/apps/Torch" revision="jb-devel" />
   <project name="Andromadus/android_hardware_qcom_media" path="hardware/qcom/media" revision="jellybean" />
   <project name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" revision="jellybean" />
