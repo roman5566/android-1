@@ -35,7 +35,7 @@
   <remove-project name="CyanogenMod/android_system_core" />
   <remove-project name="CyanogenMod/android_system_security" />
   <project name="codefire-ace/android_frameworks_av" path="frameworks/av" revision="jb-devel" />
-  <project name="codefireX/platform_bionic" path="bionic" revision="jb-devel" />
+  <project name="codefireX/android_bionic" path="bionic" revision="jb-devel" />
   <project name="codefireX/android_build" path="build" revision="jb-devel" />
   <project name="codefireX/platform_dalvik" path="dalvik" revision="jb-devel" />
   <project name="codefireX/android_external_busybox" path="external/busybox" revision="jb-devel" />
