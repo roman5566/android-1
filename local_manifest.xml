@@ -11,6 +11,7 @@
   <remove-project name="CyanogenMod/android_build" />
   <remove-project name="CyanogenMod/android_dalvik" />
   <remove-project name="CyanogenMod/android_external_e2fsprogs" />
+  <remove-project name="CyanogenMod/android_external_openssl" />
   <remove-project name="CyanogenMod/android_packages_apps_Camera" />
   <remove-project name="CyanogenMod/android_packages_apps_LegacyCamera" />
   <remove-project name="CyanogenMod/android_packages_apps_Settings" />
@@ -26,6 +27,7 @@
   <project name="codefireX/android_build" path="build" revision="jb-devel" />
   <project name="codefireX/platform_dalvik" path="dalvik" revision="jb-devel" />
   <project name="codefireX/android_external_e2fsprogs" path="external/e2fsprogs" revision="jb-devel" />
+  <project name="codefireX/android_external_openssl" path="external/openssl" revision="jb-devel" />
   <project name="codefireX/android_frameworks_base" path="frameworks/base" revision="jb-devel" />
   <project name="codefireX/android_frameworks_compile_slang" path="frameworks/compile/slang" revision="jb-devel" />
   <project name="codefireX/android_frameworks_native" path="frameworks/native" revision="jb-devel" />
