@@ -28,7 +28,7 @@
   <project name="codefire-ace/android_frameworks_av" path="frameworks/av" revision="jb-devel" />
   <project name="codefireX/android_build" path="build" revision="jb-devel" />
   <project name="codefireX/platform_dalvik" path="dalvik" revision="jb-devel" />
-    <project name="codefireX/android_external_dnsmasq" path="external/dnsmasq" revision="jb-devel" />
+  <project name="codefireX/android_external_dnsmasq" path="external/dnsmasq" revision="jb-devel" />
   <project name="codefireX/android_external_e2fsprogs" path="external/e2fsprogs" revision="jb-devel" />
   <project name="codefireX/android_external_openssl" path="external/openssl" revision="jb-devel" />
   <project name="codefireX/android_external_stlport" path="external/stlport" revision="jb-devel" />
