@@ -10,6 +10,7 @@
   <project name="Andromadus/proprietary_htc_ace" path="vendor/htc/ace" />
   <remove-project name="CyanogenMod/android_build" />
   <remove-project name="CyanogenMod/android_dalvik" />
+  <remove-project name="CyanogenMod/android_external_busybox" />
   <remove-project name="CyanogenMod/android_external_dnsmasq" />
   <remove-project name="CyanogenMod/android_external_e2fsprogs" />
   <remove-project name="CyanogenMod/android_external_openssh" />
@@ -30,6 +31,7 @@
   <project name="codefire-ace/android_frameworks_av" path="frameworks/av" revision="jb-devel" />
   <project name="codefireX/android_build" path="build" revision="jb-devel" />
   <project name="codefireX/platform_dalvik" path="dalvik" revision="jb-devel" />
+  <project name="codefireX/android_external_busybox" path="external/busybox" revision="jb-devel" />
   <project name="codefireX/android_external_dnsmasq" path="external/dnsmasq" revision="jb-devel" />
   <project name="codefireX/android_external_e2fsprogs" path="external/e2fsprogs" revision="jb-devel" />
   <project name="codefireX/android_external_openssl" path="external/openssl" revision="jb-devel" />
