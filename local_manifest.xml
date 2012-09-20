@@ -22,7 +22,7 @@
   <remove-project name="CyanogenMod/android_frameworks_native" />
   <remove-project name="CyanogenMod/android_system_core" />
   <project name="codefire-ace/android_frameworks_av" path="frameworks/av" revision="jb-devel" />
-  <project name="codefireX/platform_build" path="build" revision="jb-devel" />
+  <project name="codefireX/android_build" path="build" revision="jb-devel" />
   <project name="codefireX/platform_dalvik" path="dalvik" revision="jb-devel" />
   <project name="codefireX/android_frameworks_base" path="frameworks/base" revision="jb-devel" />
   <project name="codefireX/android_frameworks_compile_slang" path="frameworks/compile/slang" revision="jb-devel" />
