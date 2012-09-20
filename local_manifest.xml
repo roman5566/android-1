@@ -28,6 +28,7 @@
   <remove-project name="CyanogenMod/android_frameworks_base" />
   <remove-project name="CyanogenMod/android_frameworks_compile_slang" />
   <remove-project name="CyanogenMod/android_frameworks_native" />
+  <remove-project name="CyanogenMod/android_frameworks_rs" />
   <remove-project name="CyanogenMod/android_system_core" />
   <remove-project name="CyanogenMod/android_system_security" />
   <project name="codefire-ace/android_frameworks_av" path="frameworks/av" revision="jb-devel" />
@@ -42,6 +43,7 @@
   <project name="codefireX/android_frameworks_base" path="frameworks/base" revision="jb-devel" />
   <project name="codefireX/android_frameworks_compile_slang" path="frameworks/compile/slang" revision="jb-devel" />
   <project name="codefireX/android_frameworks_ex" path="frameworks/ex" revision="jb-devel" />
+  <project name="codefireX/android_frameworks_rs" path="frameworks/rs" revision="jb-devel" />
   <project name="codefireX/android_frameworks_native" path="frameworks/native" revision="jb-devel" />
   <project name="codefireX/android_hardware_msm7k" path="hardware/msm7k" revision="jb-devel" />
   <project name="codefireX/android_packages_apps_Settings" path="packages/apps/Settings" revision="jb-devel" />
