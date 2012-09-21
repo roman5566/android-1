@@ -346,7 +346,7 @@
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
   <project name="codefireX/android_system_core" path="system/core" revision="jb-devel" />
-  <project path="system/extras" name="CyanogenMod/android_system_extras" />
+  <project path="system/extras" name="codefireX/android_system_extras" revision="jb-devel" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project name="codefireX/android_system_security" path="system/security" revision="jb-devel" />
