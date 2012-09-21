@@ -18,6 +18,7 @@
   <remove-project name="CyanogenMod/android_external_openssl" />
   <remove-project name="CyanogenMod/android_external_skia" />
   <remove-project name="CyanogenMod/android_external_stlport" />
+  <remove-project name="CyanogenMod/android_external_webkit" />
   <remove-project name="CyanogenMod/android_hardware_msm7k" />
   <remove-project name="CyanogenMod/android_packages_apps_Camera" />
   <remove-project name="CyanogenMod/android_packages_apps_LegacyCamera" />
@@ -45,6 +46,7 @@
   <project name="codefireX/android_external_openssh" path="external/openssh" revision="jb-devel" />
   <project name="codefireX/android_external_skia" path="external/skia" revision="jb-devel" />
   <project name="codefireX/android_external_stlport" path="external/stlport" revision="jb-devel" />
+  <project name="codefireX/android_external_webkit" path="external/webkit" revision="jb-devel" />
   <project name="codefireX/android_frameworks_base" path="frameworks/base" revision="jb-devel" />
   <project name="codefireX/android_frameworks_compile_slang" path="frameworks/compile/slang" revision="jb-devel" />
   <project name="codefireX/android_frameworks_ex" path="frameworks/ex" revision="jb-devel" />
