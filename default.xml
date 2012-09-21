@@ -17,7 +17,7 @@
            remote="github"
            sync-j="8" />
 
-  <project path="build" name="codefireX/android_build">
+  <project path="build" name="codefireX/android_build" revision="jb-devel">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
