@@ -170,7 +170,7 @@
   <project path="external/openfst" name="CyanogenMod/android_external_openfst" />
   <project name="codefireX/android_external_openssh" path="external/openssh" revision="jb-devel" />
   <project name="codefireX/android_external_openssl" path="external/openssl" revision="jb-devel" />
-  <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" />
+  <project path="external/openvpn" name="codefireX/android_external_openvpn" revision="jb-devel" />
   <project path="external/oprofile" name="CyanogenMod/android_external_oprofile" />
   <project path="external/ping" name="CyanogenMod/android_external_ping" />
   <project path="external/ping6" name="CyanogenMod/android_external_ping6" />
