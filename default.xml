@@ -75,7 +75,7 @@
   <project path="external/bluetooth/hcidump" name="CyanogenMod/android_external_bluetooth_hcidump" />
   <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
   <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" />
-  <project path="external/busybox" name="platform/external/busybox" remote="linaro-android" revision="linaro-1.20" />
+  <project path="external/busybox" name="codefireX/android_external_busybox" revision="jb-devel" />
   <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" />
   <project path="external/checkpolicy" name="CyanogenMod/android_external_checkpolicy" />
   <project path="external/chromium" name="CyanogenMod/android_external_chromium" />
