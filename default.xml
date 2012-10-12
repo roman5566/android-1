@@ -40,7 +40,7 @@
   <project name="Andromadus/android_device_htc_ace" path="device/htc/ace" revision="jb-devel" />
   <project name="CyanogenMod/android_device_htc_jewel" path="device/htc/jewel" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_device_htc_msm8960-common" path="device/htc/msm8960-common" remote="github" revision="jellybean" />
-  <project name="CyanogenMod/android_kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" revision="android-msm-jewel-3.0" />
+  <project name="CyanogenMod/android_kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" />
   <project name="CyanogenMod/android_device_htc_ville" path="device/htc/ville" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_device_htc_evita" path="device/htc/evita" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_device_samsung_i9300" path="device/samsung/i9300" remote="github" revision="jellybean" />
