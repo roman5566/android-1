@@ -48,8 +48,8 @@
   <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="ics" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_device_samsung_d2vzw" path="device/samsung/d2vzw" remote="github" revision="jellybean" />
-  <project name="CyanogenMod/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="github" revision="jellybean" />
-  <project name="CyanogenMod/android_device_samsung_d2-common" path="device/samsung/d2-common" remote="github" revision="jellybean" />
+  <project name="codefireX/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="github" revision="jb-devel" />
+  <project name="codefireX/android_device_samsung_d2-common" path="device/samsung/d2-common" remote="github" revision="jb-devel" />
   <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_kernel_samsung_d2" path="kernel/samsung/d2" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_external_kexec-tools" path="external/kexec-tools" remote="github" revision="jellybean" />
