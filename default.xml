@@ -352,6 +352,7 @@
   <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" />
   <project name="Andromadus/proprietary_htc_ace" path="vendor/htc/ace" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" />
+  <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" />
   <project name="Andromadus/android_vendor_qcom_proprietary" path="vendor/qcom/proprietary" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
