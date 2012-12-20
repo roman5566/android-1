@@ -28,7 +28,7 @@
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" remote="aosp" revision="master" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="codefireX/platform_bootable_recovery" revision="jb-devel" />
-  <project path="cts" name="platform/cts" remote="aosp" revision="master" />
+  <project path="cts" name="platform/cts" remote="aosp" revision="jb-mr0-release" />
   <project name="codefireX/android_dalvik" path="dalvik" revision="jb-devel" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
